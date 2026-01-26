@@ -59,6 +59,20 @@ Readers Map and link to further elementary papers on TSO
 
 ---
 
+## Official Research Archive
+
+
+The complete and authoritative collection of TSO publications is maintained
+via the Zenodo community:
+
+
+**Zenodo – TSO Research Community**
+https://zenodo.org/communities/tso-research
+
+
+All peer-facing papers, versions, and DOIs referenced in this repository
+are archived there.
+
 ## Getting Started
 
 This repository is intended for:
