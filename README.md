@@ -33,7 +33,7 @@ See:
 
 ## Publications & Resources
 
-The main publications can be found on [Zenodo](https://zenodo.org/) under my author profile:
+The main publications and the documents where to start can be found on [Zenodo](https://zenodo.org/) under my author profile:
 
 
 1.  **Time–Space Oscillations**: A Geometric and Deterministic Approach to Relativistic and Quantum Phenomena
