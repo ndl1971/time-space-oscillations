@@ -1,2 +1,69 @@
-# time-space-oscillations
-Time–Space Oscillations (TSO): a theoretical framework for particle and spacetime dynamics.
+# Time–Space Oscillations (TSO)
+
+**Time–Space Oscillations (TSO)** is a theoretical framework exploring intrinsic and effective compton frequencies of particles, their interactions with spacetime, and connections between quantum mechanics and gravity.
+
+This repository serves as a hub for research, publications, and resources related to TSO.
+
+---
+
+## Overview
+
+TSO investigates:
+
+- The intrinsic oscillatory behavior of particle relativistic time and space geometry.
+- Effective TSO frequencies in composite or macroscopic systems.
+- Connections between particle dynamics and gravitational effects.
+- Relationships with quantum mechanics, quantum field theory (QFT) and classical relativistic frameworks.
+
+The framework provides insights into particle interactions, spacetime structure, and potentially unifying aspects of fundamental forces.
+
+---
+
+## Publications & Resources
+
+The main publications can be found on [Zenodo](https://zenodo.org/) under my author profile:
+
+1. **TSO and Electromagnetism** – Base TSO framework and electromagnetic interactions.  
+2. **TSO and Quantum Mechanics** – Extending TSO to quantum systems.  
+3. **CEGS and TSO** – Computational exploration of TSO in infinite-dimensional structures.  
+4. **Readers Map & Exploratory Papers** – Overviews and context for TSO research.
+
+1.  **Time–Space Oscillations**: A Geometric and Deterministic Approach to Relativistic and Quantum Phenomena
+Zenodo DOI: 10.5281/zenodo.17534734
+The foundational article introducing the TSO framework and its applications to both relativistic and quantum phenomena.
+
+2. **Time Dilation and the Nature of Gravitational and Inertial Forces**
+Zenodo DOI: 10.5281/zenodo.17543059
+Explores the TSO perspective on time dilation and the interplay of inertial and gravitational forces.
+
+3.  **Time–Space Oscillations and Electromagnetics**
+Zenodo DOI: 10.5281/zenodo.17591326
+Applies the TSO model to electromagnetic phenomena, revealing novel interpretations of wave propagation and field interactions.
+
+4.  **Time–Space Oscillations and Quantum Mechanics** 
+Zenodo DOI: 10.5281/zenodo.17670669
+Extends TSO to encompass quantum mechanical principles, including Heisenberg uncertainty, Schrödinger dynamics, path integrals, entanglement, zero-point energy, and the Quantum Zeno effect.
+
+
+
+---
+
+## Getting Started
+
+This repository is intended for:
+
+- Researchers and students interested in theoretical physics, spacetime dynamics, and quantum-classical connections.
+- Developers and enthusiasts exploring the computational aspects of TSO.
+
+
+
+## Contact
+
+Author: **Norman de Leeuw**  
+Profile: [Zenodo](https://zenodo.org/) | [LinkedIn](https://www.linkedin.com/)  
+
+Feedback, questions, or collaboration proposals are welcome via email (available on Zenodo/LinkedIn).
+
+---
+
+*This README will be updated as new research and publications are released.*
