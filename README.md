@@ -4,6 +4,14 @@
 
 This repository serves as a hub for research, publications, and resources related to TSO.
 
+## Keywords
+
+Time–Space Oscillations (TSO), spacetime oscillations, quantum mechanics,
+relativity, time dilation, Compton frequency, particle oscillators,
+deterministic quantum theory, geometric quantum mechanics,
+quantum measurement, entanglement, vacuum structure,
+inertia, gravitation, electromagnetism, unification of forces,
+emergent spacetime, Hilbert space extensions, Calculus of Element Generated Sets( CEGS )
 ---
 
 ## Overview
