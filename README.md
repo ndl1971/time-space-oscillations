@@ -12,7 +12,7 @@ deterministic quantum theory, geometric quantum mechanics,
 quantum measurement, entanglement, vacuum structure,
 inertia, gravitation, electromagnetism, unification of forces,
 emergent spacetime, Hilbert space extensions, Calculus of Element Generated Sets( CEGS )
----
+
 
 ## Overview
 
