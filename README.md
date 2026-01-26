@@ -59,9 +59,9 @@ This repository is intended for:
 ## Contact
 
 Author: **Norman de Leeuw**  
-Profile: [Zenodo](https://zenodo.org/) | [LinkedIn](https://www.linkedin.com/)  
+Profile: [Orcid](https://orcid.org/0009-0007-4818-4485) 
 
-Feedback, questions, or collaboration proposals are welcome via email (available on Zenodo/LinkedIn).
+Feedback, questions, or collaboration proposals are welcome via email (available on Orcid).
 
 ---
 
