@@ -17,6 +17,9 @@ TSO investigates:
 
 The framework provides insights into particle interactions, spacetime structure, and potentially unifying aspects of fundamental forces.
 
+See:
+- [About TSO](about.md)
+- [Publications](publications.md)
 ---
 
 ## Publications & Resources
