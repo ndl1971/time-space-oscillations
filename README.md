@@ -29,21 +29,24 @@ The main publications can be found on [Zenodo](https://zenodo.org/) under my aut
 4. **Readers Map & Exploratory Papers** – Overviews and context for TSO research.
 
 1.  **Time–Space Oscillations**: A Geometric and Deterministic Approach to Relativistic and Quantum Phenomena
-[Zenodo DOI:](https//10.5281/zenodo.17534734)  
+[Zenodo DOI:](https//10.5281/zenodo.17534734)10.5281/zenodo.17534734  
 The foundational article introducing the TSO framework and its applications to both relativistic and quantum phenomena.
 
 2. **Time Dilation and the Nature of Gravitational and Inertial Forces**
-[Zenodo DOI:](http://10.5281/zenodo.17543059)  
+[Zenodo DOI:](http://10.5281/zenodo.17543059)10.5281/zenodo.17543059  
 Explores the TSO perspective on time dilation and the interplay of inertial and gravitational forces.
 
 4.  **Time–Space Oscillations and Electromagnetics**
-[Zenodo DOI:](http://10.5281/zenodo.17591326) 
+[Zenodo DOI:](http://10.5281/zenodo.17591326)10.5281/zenodo.17591326 
 Applies the TSO model to electromagnetic phenomena, revealing novel interpretations of wave propagation and field interactions.
 
-6.  **Time–Space Oscillations and Quantum Mechanics** 
-[Zenodo DOI:](http://10.5281/zenodo.17670669) 
+5.  **Time–Space Oscillations and Quantum Mechanics** 
+[Zenodo DOI:](http://10.5281/zenodo.17670669)10.5281/zenodo.17670669 
 Extends TSO to encompass quantum mechanical principles, including Heisenberg uncertainty, Schrödinger dynamics, path integrals, entanglement, zero-point energy, and the Quantum Zeno effect.
 
+6. **Readers Map & Exploratory Papers** – Overviews and context for TSO research.
+[Zenodo DOI:](http://https://10.5281/zenodo.18323214)10.5281/zenodo.18323214
+Readers Map and link to further elementary papers on TSO
 
 
 ---
