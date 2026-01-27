@@ -75,7 +75,23 @@ This position is motivated by empirical stability (e.g. electron longevity) and 
 
 ---
 
-## 6. Fermions, compositeness, and interaction-induced decomposition
+## 6. Self-perceived identity
+
+**Marketed view:**
+Particle identity is an intrinsic property assigned by theory or experiment; relational effects are secondary.
+
+**TSO stance:**
+Stable self-referencing relationships form when a system achieves spacetime-temporal closure. The state of these relationships induces a *unitary identity*, inherent to the system/particle itself. Identity is persistent internally, but relational externally — its manifestation depends on interactions with other systems/particles.
+
+**Clarification:**
+
+* A single-particle universe forms a closed oscillatory loop, equivalent to a unitary circle.
+* In multi-particle systems, interactions among these stable identities naturally generate the dynamics described by quantum mechanics.
+* This perspective explains why identity appears both persistent and relational without invoking extrinsic fields or observer-dependent collapse.
+
+---
+
+## 7. Fermions, compositeness, and interaction-induced decomposition
 
 **Marketed view:**
 Hadrons are composed of elementary quarks and gluons as fundamental building blocks.
@@ -87,7 +103,8 @@ In TSO, stable particles form elementary spacetime-closed oscillatory identities
 A stable particle corresponds to a unitary oscillational closure in spacetime. Its internal Fourier decomposition reproduces the same closed oscillatory structure. Only when an external interaction introduces additional oscillational modes does this closure decompose into relational components, which are then described as quarks and interaction carriers.
 
 ---
-## 7. The Higgs boson
+
+## 8. The Higgs boson
 
 **Marketed view:**
 The Higgs is a fundamental scalar particle with a fixed mass of ~125 GeV.
@@ -100,7 +117,7 @@ The Higgs is not denied, but is interpreted as a transient structural excitation
 
 ---
 
-## 8. Measurement and noise
+## 9. Measurement and noise
 
 **Marketed view:**
 Observed noise reflects intrinsic quantum randomness.
@@ -110,7 +127,7 @@ TSO interprets much observed noise and dithering as induced by spacetime incompa
 
 ---
 
-## 9. Mathematical structure and oscillation
+## 10. Mathematical structure and oscillation
 
 **Marketed view:**
 Oscillations are a feature of specific physical systems.
@@ -123,7 +140,7 @@ Consistent models represent partial projections; their collective behavior conve
 
 ---
 
-## 10. Observation, measurement, and reality
+## 11. Observation, measurement, and reality
 
 **Marketed view:**
 Physical reality, including wave-function collapse, forms upon observation, understood as a perceptual or cognitive event occurring in the brain.
