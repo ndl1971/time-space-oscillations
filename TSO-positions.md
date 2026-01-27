@@ -71,7 +71,7 @@ All particles are excitations of fundamental fields.
 TSO treats fermions as the first dynamically stable spacetime-closed identities. Other particles exist, but lack long-term temporal self-closure and function as relational or transitional excitations.
 
 **Clarification:**
-This position is motivated by empirical stability (e.g. electron longevity) and does not deny the existence of bosons or scalar excitations.
+This position is motivated by empirical stability (e.g. electron longevity) and does not deny the existence of bosons, scalar excitations, or other wave-like or helical patterns to which an identity can be consistently assigned.
 
 ---
 
