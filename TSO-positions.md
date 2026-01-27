@@ -111,4 +111,15 @@ Consistent models represent partial projections; their collective behavior conve
 
 ---
 
+## 9. Observation, measurement, and reality
+
+**Marketed view:**
+Physical reality, including wave-function collapse, forms upon observation, understood as a perceptual or cognitive event occurring in the brain.
+
+**TSO stance:**
+In TSO, reality as it is operationally defined does not form in the brain. Parameter concretion occurs at the physical interaction event between the measured entity and a TSO-bound apparatus (such as a measurement device), i.e. within a system of synchronized oscillators. Mental awareness is subsequent and does not constitute physical collapse.
+
+**Clarification:**
+TSO treats measurement as a relational physical process. Conscious perception registers outcomes but does not generate them.
+
 *This document is intentionally open-ended and subject to refinement as discussions evolve.*
