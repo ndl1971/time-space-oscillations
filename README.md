@@ -1,6 +1,6 @@
 # Time–Space Oscillations (TSO)
 
-**Time–Space Oscillations (TSO)** is a theoretical framework exploring intrinsic and effective compton frequencies of particles, their interactions with spacetime, and connections between quantum mechanics and gravity.
+**Time–Space Oscillations (TSO)** is a theoretical framework exploring intrinsic and effective Compton frequencies of particles, phase synchronization across spacetime, and the emergence of quantum, relativistic, and gravitational phenomena from underlying oscillatory dynamics.
 
 This repository serves as a hub for research, publications, and resources related to TSO.
 
