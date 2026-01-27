@@ -122,4 +122,15 @@ In TSO, reality as it is operationally defined does not form in the brain. Param
 **Clarification:**
 TSO treats measurement as a relational physical process. Conscious perception registers outcomes but does not generate them.
 
+## 10. Fermions, compositeness, and interaction-induced decomposition
+
+**Marketed view:**
+Hadrons are composed of elementary quarks and gluons as fundamental building blocks.
+
+**TSO stance:**
+In TSO, stable particles form elementary spacetime-closed oscillatory identities. What is described as “quark structure” emerges only under interactional probing and does not constitute an ontologically prior set of building blocks.
+
+**Clarification:**
+A stable particle corresponds to a unitary oscillational closure in spacetime. Its internal Fourier decomposition reproduces the same closed oscillatory structure. Only when an external interaction introduces additional oscillational modes does this closure decompose into relational components, which are then described as quarks and interaction carriers.
+
 *This document is intentionally open-ended and subject to refinement as discussions evolve.*
