@@ -104,7 +104,7 @@ TSO interprets much observed noise and dithering as induced by spacetime incompa
 Oscillations are a feature of specific physical systems.
 
 **TSO stance:**
-Oscillation is a structural consequence of ordered series and their mathematical expression (e.g. Euler’s formula). Physical models correspond to restricted views on this underlying oscillatory structure.
+Oscillation is a structural consequence of ordered series and their mathematical expression (e.g. natural number e, Euler’s formula). Physical models correspond to restricted views on this underlying oscillatory structure (e.g. different series partitionings).
 
 **Clarification:**
 Consistent models represent partial projections; their collective behavior converges back to global oscillatory dynamics.
