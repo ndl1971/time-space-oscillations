@@ -1,6 +1,6 @@
 # Time–Space Oscillations (TSO)
 
-**Time–Space Oscillations (TSO)** is a theoretical framework in which spacetime itself is an intrinsic oscillatory structure, composed of complex-conjugate oscillations bound to each particle’s identity, and quantum, relativistic, and gravitational phenomena emerge from the synchronization and normalization of these oscillatory phases and frequencies.
+**Time–Space Oscillations (TSO)** is a theoretical framework in which spacetime itself is an intrinsic oscillatory structure, composed of complex-conjugate oscillations bound to each particle’s identity where quantum, relativistic, and gravitational phenomena emerge from the synchronization and normalization of these oscillatory phases and frequencies.
 
 This repository serves as a hub for research, publications, and resources related to TSO.
 
