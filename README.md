@@ -4,6 +4,8 @@
 
 This framework provides a naturally emergent, easy-to-grasp alternative to traditional wave–particle duality models, offering a unified perspective on fundamental quantum, relativistic, and gravitational phenomena.
 
+The TSO framework aligns with Maxwell’s epistemological description of the electromagnetic field, with the key difference that the oscillatory structure is attributed to time and space rather than electromagnetic waves. Additionally, by expressing 4π Dirac spinors as complex-conjugate 2π spinor combinations, TSO provides a geometrical interpretation of spinor structure that naturally emerges from the spacetime oscillations, ensuring that the conclusions of the different frameworks remain coherent and consistent.
+
 This repository serves as a centralized hub for TSO research, hosting publications, derivations, figures, and supporting materials, providing a complete reference for further study and exploration of the framework.
 
 
