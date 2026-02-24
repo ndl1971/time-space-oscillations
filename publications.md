@@ -158,6 +158,7 @@ structures and connections to number theory.
 **DOI:** 10.5281/zenodo.18668528 
 
 Investigates how QCD phenomena arises ontological from Time Space interactional wave dynamics.
+  
 ----
 
 ## Applied and Explorative TSO Concepts
