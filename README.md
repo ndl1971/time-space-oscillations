@@ -49,15 +49,15 @@ The foundational article introducing the TSO framework and its applications to b
 Explores the TSO perspective on time dilation and the interplay of inertial and gravitational forces.
 
 4.  **Time–Space Oscillations and Electromagnetics**
-[Zenodo DOI:](https://doi.org/10.5281/zenodo.17591326)10.5281/zenodo.17591326 
+[Zenodo DOI:](https://doi.org/10.5281/zenodo.17591325)10.5281/zenodo.17591325 
 Applies the TSO model to electromagnetic phenomena, revealing novel interpretations of wave propagation and field interactions.
 
 5.  **Time–Space Oscillations and Quantum Mechanics** 
-[Zenodo DOI:](https://doi.org/10.5281/zenodo.17670669)10.5281/zenodo.17670669 
+[Zenodo DOI:](https://doi.org/10.5281/zenodo.17670668)10.5281/zenodo.17670668 
 Extends TSO to encompass quantum mechanical principles, including Heisenberg uncertainty, Schrödinger dynamics, path integrals, entanglement, zero-point energy, and the Quantum Zeno effect.
 
 6. **Readers Map & Exploratory Papers** – Overviews and context for TSO research.
-[Zenodo DOI:](https://doi.org/10.5281/zenodo.18323214)10.5281/zenodo.18323214
+[Zenodo DOI:](https://doi.org/10.5281/zenodo.18056873)10.5281/zenodo.18056873
 Readers Map and link to further elementary papers on TSO
 
 
