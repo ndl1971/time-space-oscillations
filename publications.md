@@ -37,7 +37,7 @@ oscillations.
 ---
 
 ### 4. Time–Space Oscillations and Electromagnetics  
-**DOI:** 10.5281/zenodo.17696868  
+**DOI:** 10.5281/zenodo.17591325  
 
 Extends TSO to classical electromagnetism, demonstrating that voltage, current,
 impedance, and wave propagation emerge from time–space oscillations rather than
