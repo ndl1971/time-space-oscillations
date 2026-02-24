@@ -8,7 +8,7 @@ This page provides a structured overview of all publications related to the
 ## Conceptual Foundations of TSO
 
 ### 1. Time–Space Oscillations – Introduction Papers  
-**DOI:** 10.5281/zenodo.17671565  
+**DOI:** 10.5281/zenodo.17671564  
 
 Central hub linking foundational TSO articles. Overview of the deterministic,
 geometric approach to quantum mechanics, relativity, entanglement, and spacetime
@@ -46,7 +46,7 @@ being independent oscillatory entities.
 ---
 
 ### 5. Time–Space Oscillations and Quantum Mechanics  
-**DOI:** 10.5281/zenodo.17679805  
+**DOI:** 10.5281/zenodo.17670668  
 
 Provides a deterministic explanation for quantum phenomena including
 entanglement, zero-point energy, interference, and path integrals.
