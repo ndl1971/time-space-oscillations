@@ -154,6 +154,11 @@ Investigates non-integrable exponentials in TSO, revealing emergent discrete
 structures and connections to number theory.
 
 ---
+### 3.  TSO:Baryons, Color, and Quark Phenomenology from Phase-Topological Dynamics (TSO and QCD)  
+**DOI:** 10.5281/zenodo.18668528 
+
+Investigates how QCD phenomena arises ontological from Time Space interactional wave dynamics.
+----
 
 ## Applied and Explorative TSO Concepts
 
