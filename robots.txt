@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://github.com/ndl1971/time-space-oscillations/sitemap.xml
