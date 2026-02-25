@@ -139,6 +139,15 @@ emerge from unified phase and frequency fields in TSO.
 
 ---
 
+### 5. TSO: Time–Space Oscillations, Quantum Field Theory, Compton Wavelength, and Relativistic Time Dilation
+
+10.5281/zenodo.18328394	https://doi.org/10.5281/zenodo.18328394	
+
+Solving the riddle between an increasing TSO frequency for elementary particles dependend on Mass, while the relatvistic 
+time dilation function for massfull objects shows the opposite. A dilemma also appearing in classical QFT.
+
+---
+
 ## Advanced Mathematical and Conceptual Structures
 
 ### 1. Time–Space Oscillation as a Generalized Hilbert–CEGS Framework  
