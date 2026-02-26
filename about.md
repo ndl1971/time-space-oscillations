@@ -7,6 +7,8 @@ connecting relativistic and quantum phenomena.
 It investigates how oscillatory structures underlie physical processes and
 offers a geometric viewpoint on foundational concepts in physics.
 
+A short explanation wiki about the fundamentals of TSO can be found here: https://github.com/ndl1971/time-space-oscillations/wiki 
+
 This repository acts as a central index of publications related to TSO.
 For a curated list of papers, see [Publications](publications.md).
 
