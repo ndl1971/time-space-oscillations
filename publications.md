@@ -139,12 +139,21 @@ emerge from unified phase and frequency fields in TSO.
 
 ---
 
-### 5. TSO: Time–Space Oscillations, Quantum Field Theory, Compton Wavelength, and Relativistic Time Dilation
+### 6. TSO: Time–Space Oscillations, Quantum Field Theory, Compton Wavelength, and Relativistic Time Dilation
 
 10.5281/zenodo.18328394	https://doi.org/10.5281/zenodo.18328394	
 
 Solving the riddle between an increasing TSO frequency for elementary particles dependend on Mass, while the relatvistic 
 time dilation function for massfull objects shows the opposite. A dilemma also appearing in classical QFT.
+
+---
+
+### 7. TSO: Baryons, Color, and Quark Phenomenology from Phase-Topological Dynamics (TSO and QCD)
+
+10.5281/zenodo.18668527	https://doi.org/10.5281/zenodo.18668527
+
+TSO in respect to QCD. A more critical, and Andrew Pickering conforming, approach
+to QCD.
 
 ---
 
@@ -175,7 +184,7 @@ Investigates non-integrable exponentials in TSO, revealing emergent discrete
 structures and connections to number theory.
 
 ---
-### 4.  TSO:Baryons, Color, and Quark Phenomenology from Phase-Topological Dynamics (TSO and QCD)  
+### 4.  TSO: Baryons, Color, and Quark Phenomenology from Phase-Topological Dynamics (TSO and QCD)  
 **DOI:** 10.5281/zenodo.18668527	https://doi.org/10.5281/zenodo.18668527
 
 Investigates how QCD phenomena arises ontological from Time Space interactional wave dynamics.
@@ -219,3 +228,42 @@ Analyzes theoretical TSO time travel, multiverse branching, and coherence
 constraints within the TSO framework.
 
 ---
+
+
+## TSO and the origin of the universe. Philosophical and non-introductory foundations of TSO: the origin of space and time and the universe as we know it
+
+### 1. The Forbidden ”Why” Question - From a Single Particle Universe to Space and Time
+**DOI:** 10.5281/zenodo.23036173	https://doi.org/10.5281/zenodo.23036173
+
+
+Many physicists have the opinion that the ”why” question cannot be answered by
+physics. Only the ”that” based on measurable mechanics can be analysed. Partly
+grounded by Russels Paradox. However with the TSO framework we hunt for the
+forbidden ”why” question. And we show that the answer lies in its self-referential
+founding upon which the whole universe emerges.
+
+### 2 . Resolving the last Forbidden ”Why” Questions: A Geometric Derivation of Lightspeed c and Energy Constancy within the Reciprocal Z + 1/Z Single-Particle Framework
+DOI: 10.5281/zenodo.23076938
+
+Answering the final questions about lightspeed c and energy balance the predecessing article left unanswered.
+
+---
+
+
+## Mathematical background and related insight
+
+Not essential, but cannot harm. What mathematical machinery lies underneath the N:M
+relationships appearing throughout TSO? Extending Calculus on an N:M realm instead
+of limiting it to 1:1 functional relations seems rather practical within the context of cyclic
+systems with topological different windings.
+
+### 1. Calculus of Element-Generated Sets (CEGS): A Symbolic Framework for Mathematics, Physics, and AI
+DOI: 10.5281/zenodo.16904171
+
+Calculus for N:M relations.
+### 2. Calculus of Element Generated Sets for Quantum Mechanics: Emergent Hilbert Sectors from Generative Relational Structure, CEGS4QM
+DOI: 10.5281/zenodo.20448900
+
+CEGS N:M Calculus specialised for the context of QM and Hilbert Spaces.
+
+----
