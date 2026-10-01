@@ -148,14 +148,6 @@ time dilation function for massfull objects shows the opposite. A dilemma also a
 
 ---
 
-### 7. TSO: Baryons, Color, and Quark Phenomenology from Phase-Topological Dynamics (TSO and QCD)
-
-10.5281/zenodo.18668527	https://doi.org/10.5281/zenodo.18668527
-
-TSO in respect to QCD. A more critical, and Andrew Pickering conforming, approach
-to QCD.
-
----
 
 ## Advanced Mathematical and Conceptual Structures
 
